@@ -1,4 +1,6 @@
-# Sentiment Analysis for Amharic Language 
+``` 
+SENTIMENT ANALYSIS FOR AMHARIC LANGUAGE 
+```
 <i>(Fundamentals of Machine Learning class project. <img src="./logo.jpg" alt="logo of Debre Birhan University" style="width: 8vh; height: 3vh; border-radius: 2vh;"> )</i>
 <hr/> 
 
@@ -141,3 +143,12 @@ As Amharic sentimental analysis is new or not well developed point of view in th
 ### 6.2. Conclusions
 
 Amharic is one of the low-resource languages. Because of the scarcity of labeled data, it's been quite difficult to make an NLP model for sentiment analysis. Other main point we learned is that the most difficult part of NLP is the data extraction and data cleaning than creating the actual models.
+
+
+<br/><br/>
+
+### Follow me on:
+[LinkedIn](https://www.linkedin.com/in/belay-birhanu-506809207/)
+[GitHub](https://github.com/AdgehTech)
+[Telegram](https://t.me/adgehTech)
+[Gmail](mailto:belaybirhanu407@gmail.com)
