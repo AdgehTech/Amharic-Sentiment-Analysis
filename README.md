@@ -1,5 +1,5 @@
 # Sentiment Analysis for Amharic Language 
-<i>(Fundamentals of Machine Learning class project.<img src="./logo.jpg" alt="logo of Debre Birhan University" style="width: 8vh; height: 3vh; border-radius: 2vh;">)</i>
+<i>(Fundamentals of Machine Learning class project. <img src="./logo.jpg" alt="logo of Debre Birhan University" style="width: 8vh; height: 3vh; border-radius: 2vh;"> )</i>
 <hr/> 
 
 ## 1. Introduction
