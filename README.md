@@ -1,8 +1,9 @@
 ``` 
 SENTIMENT ANALYSIS FOR AMHARIC LANGUAGE 
 ```
+<a href="https://github.com/AdgehTech">
 <i>(Fundamentals of Machine Learning class project. <img src="./logo.jpg" alt="logo of Debre Birhan University" style="width: 8vh; height: 3vh; border-radius: 2vh;"> )</i>
-<hr/> 
+<hr/> </a>
 
 ## 1. Introduction
 
@@ -147,7 +148,7 @@ Amharic is one of the low-resource languages. Because of the scarcity of labeled
 
 <br/><br/>
 
-### Follow me on:
+### Contact me on:
 [LinkedIn](https://www.linkedin.com/in/belay-birhanu-506809207/)
 [GitHub](https://github.com/AdgehTech)
 [Telegram](https://t.me/adgehTech)
